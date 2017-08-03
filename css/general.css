@@ -1,0 +1,14 @@
+
+/*@import url(reset.css);*/
+
+*{
+   text-decoration: none;
+   box-sizing: border-box;
+}
+body {
+   background-color: #eeeeee;
+}
+/*
+li {
+   list-style: none;
+}*/

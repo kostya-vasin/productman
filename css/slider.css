@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,900');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700,900');
+.slider {
+   margin: 0 auto;
+	width: 80%;
+}
+section.banner{
+ position: absolute;  
+ 
+}    
+.banner-title {
+display: inline-block;
+color: #303030;
+font-family: Raleway;
+font-size: 150px;
+font-weight: 900;
+text-transform: uppercase;
+   text-align: right;
+       margin-left: -9px;
+}
+h1.banner-title {
+   margin: 0 auto;
+   line-height: 150px;
+   margin-bottom: 25px;
+}
+.banner-info {
+	color: #303030;
+font-family: Roboto;
+font-size: 24px;
+font-weight: 300;
+width: 46%;
+text-align: right;
+ margin-top: inherit;
+       margin-bottom: 25px;
+}
+p.banner-info {
+   width: 100%;
+}
+.btn {
+    display: inline-block;
+    color: #e10011;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+   width: 46%;
+    text-align: right;
+}
+.banner-img {
+       position: absolute;
+    right: 75px;
+ 
+}
