@@ -50,7 +50,12 @@ p.banner-text {
     display: inline-block;
     padding-left: 35px;
 }
-
+.bg-gradient {
+position: absolute;
+    z-index: -1;
+    left: 498px;
+    top: 0;
+}
 
 p.banner-info {
        display: inline-block;
