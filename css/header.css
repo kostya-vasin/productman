@@ -38,3 +38,12 @@ li.menu {
    padding: 0 25px;
    
 }
+a.menu {
+   color: #303030;
+}
+a.menu:visited {
+   color: #303030;
+}
+a.menu:active {
+   color: #e10011;
+}
